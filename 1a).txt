@@ -1,0 +1,1 @@
+A melhor estrutura de banco de dados para esses dados é o SQL, pois, há varias tabelas presentes na base que se relacionam entre si e as tabelas têm uma estrutura bem definida.
